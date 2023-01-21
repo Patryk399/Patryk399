@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patryk399
 - 👀 I’m interested in cars,games,coding.
 - 🌱 I’m currently learning C and C++.
-- 💞️ I’m looking to collaborate on as junior C++ developer.
+- 💞️ I’m looking to collaborate on as junior C++ developer or Full stack developer.
 - 📫 How to reach me by email.
 
 <!---
