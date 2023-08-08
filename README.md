@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Patryk399
 - 👀 I’m interested in cars,games,coding.
-- 🌱 I’m currently learning C++.
--     Soon C  embedded.
-- 💞️ I’m looking to collaborate on as junior C++ developer.
+- 🌱 I’m currently learning C,C++,Java,Python.
+- 💞️ I’m looking to collaborate on as junior software developer.
 - 📫 woznypatryk@gmail.com
 
 <!---
